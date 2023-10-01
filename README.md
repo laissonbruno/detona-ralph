@@ -1,6 +1,5 @@
-# Jogo de Clique Rápido
+# Detona Ralph
 
-Este é um simples jogo de clique rápido criado em JavaScript, HTML e CSS. O objetivo do jogo é clicar no quadrado inimigo que aparece aleatoriamente antes que o tempo acabe. Abaixo, você encontrará uma descrição das partes principais do código.
 
 ## Estado do Jogo
 
